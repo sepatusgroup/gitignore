@@ -4,6 +4,7 @@
 /META.json
 /MYMETA.*
 *.o
+*.pm.tdy
 *.bs
 
 # Devel::Cover
@@ -23,7 +24,7 @@ Build.bat
 # Module::Install
 inc/
 
-# ExtUitls::MakeMaker
+# ExtUtils::MakeMaker
 /blib/
 /_eumm/
 /*.gz
